@@ -26,5 +26,10 @@ m: turn on/turn off the BGM
 
 ```
 
+![image](https://github.com/apkeidj123/Soukoban-Assembly/blob/master/picture/1.png)
+![image](https://github.com/apkeidj123/Soukoban-Assembly/blob/master/picture/2.png)
+
 NO music files. 
+
+
 
